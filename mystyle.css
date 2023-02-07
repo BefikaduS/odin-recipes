@@ -1,0 +1,14 @@
+html * {
+    color: black;
+    font-family: Raleway, sans-serif;
+  }
+h1{
+  text-align: left;
+  font-size: 30px;
+  color: black;
+  font-weight: bolder;
+}
+h4{
+  font-size: 20px;
+  color: darkgray;
+}
